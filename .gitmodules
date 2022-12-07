@@ -1,0 +1,30 @@
+[submodule "Optionals"]
+	path = Optionals
+	url = git@github.com:c4arl0s/Optionals.git
+[submodule "TypeCastingAndInspection"]
+	path = TypeCastingAndInspection
+	url = git@github.com:c4arl0s/TypeCastingAndInspection.git
+[submodule "Guard"]
+	path = Guard
+	url = git@github.com:c4arl0s/Guard.git
+[submodule "ConstantAndVariableScope"]
+	path = ConstantAndVariableScope
+	url = git@github.com:c4arl0s/ConstantAndVariableScope.git
+[submodule "Enumerations"]
+	path = Enumerations
+	url = git@github.com:c4arl0s/Enumerations.git
+[submodule "SeguesAndNavigationControllers"]
+	path = SeguesAndNavigationControllers
+	url = git@github.com:c4arl0s/SeguesAndNavigationControllers.git
+[submodule "TabBarControllers"]
+	path = TabBarControllers
+	url = git@github.com:c4arl0s/TabBarControllers.git
+[submodule "ViewControllerLifeCycle"]
+	path = ViewControllerLifeCycle
+	url = git@github.com:c4arl0s/ViewControllerLifeCycle.git
+[submodule "BuildingSimpleWorkflows"]
+	path = BuildingSimpleWorkflows
+	url = git@github.com:c4arl0s/BuildingSimpleWorkflows.git
+[submodule "PersonalityQuiz"]
+	path = PersonalityQuiz
+	url = git@github.com:c4arl0s/PersonalityQuiz.git
